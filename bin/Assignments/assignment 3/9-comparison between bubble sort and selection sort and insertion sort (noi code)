@@ -1,0 +1,25 @@
+Bubble Sort :
+Repeatedly steps through the list, compares adjacent elements,
+and swaps them if they are in the wrong order. This process is
+repeated until the list is sorted.
+
+Best Case:        𝑂(𝑛)
+Worst Case:       𝑂(𝑛2)
+Average Case:     𝑂(𝑛2)
+------------------------------------------------------------------------
+Selection Sort:
+Description: Repeatedly finds the minimum element from the
+unsorted part of the list and moves it to the sorted part.
+
+Best Case:        𝑂(𝑛2)
+Worst Case:       𝑂(𝑛2)
+Average Case:     𝑂(𝑛2)
+------------------------------------------------------------------------
+Insertion Sort:
+Builds the final sorted list one item at a time. It takes each element
+and places it in the correct position within the sorted portion of the list.
+
+Best Case:        𝑂(𝑛)
+Worst Case:       𝑂(𝑛2)
+Average Case:     𝑂(𝑛2)
+-------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+Linear Search
+Purpose: Checks each element in a list until the target element is found or the list ends.
+Complexity:
+Best Case:         𝑂(1)
+Worst Case:        𝑂(𝑛)
+Average Case:      𝑂(𝑛)
+
+Binary Search
+Purpose: Efficiently finds an element by dividing a sorted list into halves.
+Complexity:
+Best Case:        𝑂(1)
+Worst Case:       𝑂(log 𝑛)
+Average Case:     𝑂(log 𝑛)
+
+...Linear Search is flexible for any list, regardless of order...
+...Binary Search is more efficient but requires the list to be sorted...
